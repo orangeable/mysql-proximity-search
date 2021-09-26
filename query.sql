@@ -1,4 +1,4 @@
-SET @zip_code = '80521';
+SET @zip_code = '10001';
 SET @radius = 25;
 
 SELECT	zip_code,
